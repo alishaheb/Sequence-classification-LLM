@@ -1,5 +1,5 @@
 
-Project Overview
+Project Overview<br>
 This coursework project focuses on sequence classification (token labeling) for detecting abbreviations (AC) and long forms (LF) in biomedical scientific literature 
 from PLOS journals. It uses the PLOD-CW dataset (50k labeled tokens from Hugging Face), sourced from the PLOD dataset, with optional extensions from PLOD-Filtered.
 Labels follow the BIO schema: B-O (other), B-AC (abbreviation start), B-LF (long form start), I-LF (long form inside). Each token includes POS tags (optional).
