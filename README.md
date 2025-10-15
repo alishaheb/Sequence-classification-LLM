@@ -5,7 +5,7 @@ from PLOS journals. It uses the PLOD-CW dataset (50k labeled tokens from Hugging
 Labels follow the BIO schema: B-O (other), B-AC (abbreviation start), B-LF (long form start), I-LF (long form inside). Each token includes POS tags (optional).
 The goal is to build a prototype classifier for information extraction tasks like e-commerce, dialogue systems, or machine translation quality estimation.
 Maximum sequence length: 323 tokens. Evaluation emphasizes methodology over raw accuracy, using F1-score as the primary metric.
-No language models for generating code/text; use free GPUs (e.g., Heron lab).
+No language models for generating code/text; use free GPUs (e.g., Kaggle).
 
 
 ![Training Strategy](https://github.com/alishaheb/Sequence-classification-LLM/blob/91fd1390840d0690d67bf65cd037dfc978eb839f/schema.png)
