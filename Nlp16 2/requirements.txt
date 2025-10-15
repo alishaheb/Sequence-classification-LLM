@@ -1,0 +1,6 @@
+streamlit
+datasets
+transformers
+torch
+evaluate
+matplotlib
