@@ -8,5 +8,4 @@ Maximum sequence length: 323 tokens. Evaluation emphasizes methodology over raw 
 No language models for generating code/text; use free GPUs (e.g., Heron lab).
 
 
-<br>
 ![Training Strategy](https://github.com/alishaheb/Sequence-classification-LLM/blob/91fd1390840d0690d67bf65cd037dfc978eb839f/schema.png)
